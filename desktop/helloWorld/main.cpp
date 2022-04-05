@@ -6,8 +6,9 @@
 // SPDX-License-Identifier: BSD-3-Clause [https://spdx.org/licenses/]          //                                                                                        
 /////////////////////////////////////////////////////////////////////////////////
 
-#include <stdio.h>
+#include <iostream>
 
 int main(){
-  printf("hello world\n");
+  std::cout << "Hello world!" << "\n";
+  return 0;
 }
