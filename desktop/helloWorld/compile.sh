@@ -1,2 +1,2 @@
-g++ helloworld.cpp -0 helloworld
+g++ main.cpp -0 helloworld
 ./helloworld
